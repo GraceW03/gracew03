@@ -4,7 +4,7 @@
 - 🤖 Software Lead on the Cornell Nexus Project Team
 - 📚 CS Teaching Assistant
 - 💜 Passionate about technology and education
-- 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/gtwei/" target="_blank"> LinkedIn <\a>
+- 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/gtwei/" target="_blank"> LinkedIn </a>
 <!--
 **GraceW03/gracew03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
