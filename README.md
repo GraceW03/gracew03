@@ -3,7 +3,8 @@
 - 🏫 I’m currently a junior at Cornell University
 - 🤖 Software Lead on the <a href="https://www.cornellnexus.com/" target="_blank"> Cornell Nexus Project Team </a>
 - 📚 CS Teaching Assistant
-- 💜 Passionate about technology and education
+- Prev. intern at Prudential Financial, Regeneron Pharmaceuticals
+<!-- - 💜 Passionate about technology and education -->
 - 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/gtwei/" target="_blank"> LinkedIn </a>
 <!--
 **GraceW03/gracew03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
