@@ -3,7 +3,7 @@
 - 🏫 I’m currently a junior at Cornell University
 - 🤖 Software Lead on the <a href="https://www.cornellnexus.com/" target="_blank"> Cornell Nexus Project Team </a>
 - 📚 CS Teaching Assistant
-- Prev. intern at Prudential Financial, Regeneron Pharmaceuticals
+- 🖨️ Prev. intern at Prudential Financial, Regeneron Pharmaceuticals
 - 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/gtwei/" target="_blank"> LinkedIn </a>
 <!-- - 💜 Passionate about technology and education -->
 <!--
