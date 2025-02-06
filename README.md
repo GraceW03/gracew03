@@ -4,7 +4,7 @@
 - 🤖 Software Lead on the <a href="https://www.cornellnexus.com/" target="_blank"> Cornell Nexus Project Team </a>
 - 📚 CS Teaching Assistant
 - 🖨️ Prev. intern at Prudential Financial, Regeneron Pharmaceuticals
-- 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/gtwei/" target="_blank"> LinkedIn </a>
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/gtwei/" target="_blank"> LinkedIn </a>!
 <!-- - 💜 Passionate about technology and education -->
 <!--
 **GraceW03/gracew03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
