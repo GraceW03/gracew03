@@ -1,8 +1,9 @@
 # 💫 Hi 👋, I'm Grace<br>
 🏫 I’m currently a junior at Cornell University<br>
-🤖 Software Lead on the Cornell Nexus Project Team<br>
+🤖 Software on the Cornell Nexus Project Team<br>
 📚 CS Teaching Assistant<br>
-🖨️ Prev. intern at Prudential Financial, Regeneron Pharmaceuticals
+👩🏻‍💻 Career Development Co-Director at Women in Computing at Cornell
+🖨️ Prev. intern at Millennium, Prudential Financial, Regeneron Pharmaceuticals
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtwei) 
