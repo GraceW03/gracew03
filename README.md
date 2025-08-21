@@ -5,6 +5,7 @@
 👩🏻‍💻 Career Development Co-Director at Women in Computing at Cornell <br>
 🖨️ Prev. intern at Millennium, Prudential Financial, Regeneron Pharmaceuticals
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtwei) 
 
