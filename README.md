@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Grace<br>
-🏫 I’m currently a junior at Cornell University<br>
+🏫 Senior at Cornell University<br>
 🤖 Software on the Cornell Nexus Project Team<br>
 📚 CS Teaching Assistant<br>
 👩🏻‍💻 Career Development Co-Director at Women in Computing at Cornell <br>
