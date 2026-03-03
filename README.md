@@ -1,8 +1,5 @@
 # 💫 Hi 👋, I'm Grace<br>
-🏫 Senior at Cornell University<br>
-🤖 Software on the Cornell Nexus Project Team<br>
-📚 CS Teaching Assistant<br>
-👩🏻‍💻 Career Development Co-Director at Women in Computing at Cornell <br>
+🎓 Senior at Cornell University<br>
 🖨️ Prev. intern at Millennium, Prudential Financial, Regeneron Pharmaceuticals
 
 ## 🌐 Socials:
