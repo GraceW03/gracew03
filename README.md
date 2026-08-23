@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Grace<br>
-🎓 Cornell CS Graduate
+🎓 Cornell CS Graduate 
+
 💻 Software engineer learning to specialize in Quality Engineering
 
 
