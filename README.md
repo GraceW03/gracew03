@@ -1,6 +1,7 @@
 # 💫 Hi 👋, I'm Grace<br>
-🎓 Senior at Cornell University<br>
-🖨️ Prev. intern at Millennium, Prudential Financial, Regeneron Pharmaceuticals
+🎓 Cornell CS Graduate
+💻 Software engineer learning to specialize in Quality Engineering
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtwei) 
